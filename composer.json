@@ -1,0 +1,28 @@
+{
+    "name": "fg-developer/jobs-backend-challenge",
+    "description": "This is a example package",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ILYAS DEMIRTAS",
+            "email": "ilyasdemirtas@hotmail.com.tr"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev" :   {
+        "phpunit/phpunit": "@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fg\\Developer\\JobsBackEndChallenge\\": "vendor/fg-developer/jobs-backend-challenge/src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "vendor/fg-developer/jobs-backend-challenge/tests/"
+        }
+    }
+}
