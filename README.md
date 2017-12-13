@@ -1,7 +1,7 @@
 # jobs-backend-challenge
-Jobs Backend Challenge is a package for laravel 5.1
+Jobs Backend Challenge Laravel 5.1 surumu icin hazirlanmis bir pakettir.
 
-## Installation
+## Kurulum
 
 Bu paketi yuklemek icin composer paket yoneticisi ile yuklemelisiniz. Yukleme islemi icin asagidaki kodu kullanmalisiniz.
 
